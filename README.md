@@ -1,4 +1,4 @@
-# SkinLesionClassifier
+# Skin Lesion Classifier
 A Skin Lesion Analysis Towards Melanoma Detection
 
 ## Description 
