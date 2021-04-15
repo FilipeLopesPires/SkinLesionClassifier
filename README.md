@@ -1,6 +1,12 @@
 # Skin Lesion Classifier
 A Skin Lesion Analysis Towards Melanoma Detection
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Made%20with-Python-blue)
+![](https://img.shields.io/badge/ISIC%20Challenge-2017-lightgrey)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description 
 
 This project aims to propose a form dealing with the classification of skin lesions into 3 unique diagnoses (melanoma, nevus, and seborrheic keratosis) based on deep neural networks working
